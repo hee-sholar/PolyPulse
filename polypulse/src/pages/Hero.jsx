@@ -90,7 +90,7 @@ export default function HeroSection() {
             </a>
 
             <a
-              href="https://t.me/YourTelegramGroup" // 🔗 Replace with your Telegram group link
+              href="https://t.co/qFYRKLbRfL" // 🔗 Replace with your Telegram group link
               target="_blank"
               rel="noopener noreferrer"
               className="border border-cyan-400 text-cyan-400 hover:bg-cyan-400 hover:text-white px-8 py-4 rounded-xl text-lg font-semibold transition hover:shadow-[0_0_25px_rgba(34,211,238,0.8)]"

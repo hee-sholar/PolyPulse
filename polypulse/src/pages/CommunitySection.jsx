@@ -7,14 +7,14 @@ export default function CommunitySection() {
       icon: MessageCircle,
       description: "Join our main chat for updates and discussions",
       members: "1.2K+",
-      link: "https://t.me/PolyPulseOfficial",
+      link: "https://t.co/qFYRKLbRfL",
     },
     {
       name: "Twitter/X",
       icon: Twitter,
       description: "Follow us for the latest news and announcements",
       members: "850+",
-      link: "https://x.com/PolyPulseAI",
+      link: " https://x.com/polypulsee?t=AvAMFCxRrYgfpnBJm7tC1A&s=09",
     },
     {
       name: "Discord",
@@ -83,7 +83,7 @@ export default function CommunitySection() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://t.me/PolyPulseOfficial"
+              href="https://t.co/qFYRKLbRfL"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 transition"
@@ -91,7 +91,7 @@ export default function CommunitySection() {
               <MessageCircle className="inline mr-2 w-4 h-4" /> Join Telegram
             </a>
             <a
-              href="https://x.com/PolyPulseAI"
+              href=" https://x.com/polypulsee?t=AvAMFCxRrYgfpnBJm7tC1A&s=09"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 border border-cyan-400 text-cyan-400 rounded-lg hover:bg-cyan-400 hover:text-white transition"

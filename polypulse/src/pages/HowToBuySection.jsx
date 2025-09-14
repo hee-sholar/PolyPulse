@@ -96,19 +96,6 @@ export default function HowToBuySection() {
             Contract Address: <span className="text-white">Coming Soon</span>
           </div>
         </div>
-
-        {/* Optional Pump.fun Embed */}
-        {/* <div
-          className="mt-12 rounded-2xl overflow-hidden border border-green-500/20 shadow-lg"
-          data-aos="fade-up"
-          data-aos-delay="600"
-        >
-          <iframe
-            src="https://pump.fun" // Replace with real token link when deployed
-            className="w-full h-[600px]"
-            title="Buy PolyPulse on Pump.fun"
-          />
-        </div> */}
       </div>
     </section>
   )
